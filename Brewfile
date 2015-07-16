@@ -4,6 +4,17 @@
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
+cask alfred
+cask android-studio
+cask bettertouchtool
+cask cheatsheet
+cask dash
+cask google-chrome
+cask google-japanese-ime
+cask iterm2
+cask java
+cask karabiner
+cask sourcetree
 
 ## rcmdnk/file
 tap rcmdnk/file
